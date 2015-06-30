@@ -1,0 +1,9 @@
+# Site settings
+title: aborigines
+email: 
+description: xxxxx
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "aborigines.github.io" # the base hostname & protocol for your sited
+
+# Build settings
+markdown: kramdown
